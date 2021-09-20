@@ -4,9 +4,16 @@
         <title>do some cool thing Blog</title>
         <link>https://sven-xie.github.io/blog</link>
         <description>do some cool thing Blog</description>
-        <lastBuildDate>Mon, 20 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 11:50:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[docusaurus2博客搭建]]></title>
+            <link>https://sven-xie.github.io/blog/docusaurus2博客搭建</link>
+            <guid>docusaurus2博客搭建</guid>
+            <pubDate>Mon, 20 Sep 2021 11:50:01 GMT</pubDate>
+            <description><![CDATA[- 发布Github Page的在原来的主分支main执行yarn deploy会报错；]]></description>
+        </item>
         <item>
             <title><![CDATA[老颜舔的舔狗日记四月份]]></title>
             <link>https://sven-xie.github.io/blog/老颜舔的舔狗日记四月份</link>
