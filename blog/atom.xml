@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sven-xie.github.io/blog</id>
+    <title>do some cool thing Blog</title>
+    <updated>2021-09-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sven-xie.github.io/blog"/>
+    <subtitle>do some cool thing Blog</subtitle>
+    <icon>https://sven-xie.github.io/img/logo.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[老颜舔的舔狗日记四月份]]></title>
+        <id>老颜舔的舔狗日记四月份</id>
+        <link href="https://sven-xie.github.io/blog/老颜舔的舔狗日记四月份"/>
+        <updated>2021-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[老颜舔的舔狗日记四月份]]></summary>
+        <author>
+            <name>Sven</name>
+            <uri>https://github.com/sven-xie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老颜舔的舔狗日记三月份]]></title>
+        <id>老颜舔的舔狗日记三月份</id>
+        <link href="https://sven-xie.github.io/blog/老颜舔的舔狗日记三月份"/>
+        <updated>2021-09-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[老颜舔的舔狗日记三月份]]></summary>
+        <author>
+            <name>Sven</name>
+            <uri>https://github.com/sven-xie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[请喝杯奶茶]]></title>
+        <id>请喝杯奶茶</id>
+        <link href="https://sven-xie.github.io/blog/2021/09/18/请喝杯奶茶"/>
+        <updated>2021-09-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[naicha]]></summary>
+    </entry>
+</feed>
