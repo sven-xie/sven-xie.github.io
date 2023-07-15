@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksven_blog=self.webpackChunksven_blog||[]).push([[122],{9832:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/\u5e94\u6709\u5c3d\u6709","name":"\u5e94\u6709\u5c3d\u6709","count":2,"permalink":"/blog/tags/\u5e94\u6709\u5c3d\u6709"}')}}]);

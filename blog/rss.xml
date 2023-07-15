@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>do some cool thing Blog</title>
+        <link>https://sven-xie.github.io/blog</link>
+        <description>do some cool thing Blog</description>
+        <lastBuildDate>Mon, 20 Sep 2021 11:50:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[docusaurus2博客搭建]]></title>
+            <link>https://sven-xie.github.io/blog/docusaurus2博客搭建</link>
+            <guid>docusaurus2博客搭建</guid>
+            <pubDate>Mon, 20 Sep 2021 11:50:01 GMT</pubDate>
+            <description><![CDATA[- 发布Github Page的在原来的主分支main执行yarn deploy会报错；]]></description>
+        </item>
+        <item>
+            <title><![CDATA[老颜舔的舔狗日记四月份]]></title>
+            <link>https://sven-xie.github.io/blog/老颜舔的舔狗日记四月份</link>
+            <guid>老颜舔的舔狗日记四月份</guid>
+            <pubDate>Mon, 20 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[老颜舔的舔狗日记四月份]]></description>
+        </item>
+        <item>
+            <title><![CDATA[老颜舔的舔狗日记三月份]]></title>
+            <link>https://sven-xie.github.io/blog/老颜舔的舔狗日记三月份</link>
+            <guid>老颜舔的舔狗日记三月份</guid>
+            <pubDate>Sun, 19 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[老颜舔的舔狗日记三月份]]></description>
+        </item>
+        <item>
+            <title><![CDATA[请喝杯奶茶]]></title>
+            <link>https://sven-xie.github.io/blog/2021/09/18/请喝杯奶茶</link>
+            <guid>请喝杯奶茶</guid>
+            <pubDate>Sat, 18 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[naicha]]></description>
+        </item>
+    </channel>
+</rss>
