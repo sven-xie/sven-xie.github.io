@@ -7,11 +7,13 @@ tags: [安卓, 开发, 辅助工具]
 
 # 安卓开发辅助工具 BainbowBeachTools
 
-**一个安卓手机开发者工具类。主要包含以下几点功能特色：**
+**BainbowBeachTools是一个安卓手机开发者工具类。主要包含以下几点功能特色：**
 
 - **在线网页查看、下载、上传文件等方式管理手机存储；**
 - **手动轻松点击屏幕即可查看页面对应 View 的详细信息；**
 - **支持手机上运行 ADB 命令，一键截图、录屏；**
+
+github项目地址：[BainbowBeachTools](https://github.com/sven-xie/RainbowBeach)
 
 ## 怎么用
 
@@ -25,7 +27,7 @@ dependencies {
   }
 ```
 
-一个安卓手机开发者工具类。主要包含以下几点功能特色：
+
 
 ## 查看和管理手机存储
 
