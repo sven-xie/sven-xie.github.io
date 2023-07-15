@@ -37,13 +37,12 @@ dependencies {
 
 - 一键上传文件导入到手机内部存储；
 
-  <img src="img/rainbow/file_system_total_intro.png" alt="企业微信20230715-165414@2x" style="zoom:50%;" />
+![naicha](img\rainbow\file_system_total_intro.png)
+![naicha](img\rainbow\upload_file.png)
 
-  <img src="img/rainbow/upload_file.png" alt="企业微信20230715-165620@2x" style="zoom:50%;" />
+![naicha](img\rainbow\check_app_private.png)
 
-<img src="img/rainbow/check_app_private.png" alt="企业微信20230715-165524@2x" style="zoom: 50%;" />
-
-<img src="img/rainbow/check_images.png" alt="企业微信20230715-165547@2x" style="zoom: 33%;" />
+![naicha](img\rainbow\check_images.png)
 
 ## 查看页面 View 树布局信息
 
@@ -51,12 +50,12 @@ dependencies {
 
 如果可在界面点击即可获取到对应的控件详细信息呢，通过拿到点击的坐标，和 Activity 内所有的 View 的 Rect 边框做遍历；得到与点击位置重叠的所有 View 的的详细；可手动切换查看其他边框和详细列表信息；
 
-<img src="img/rainbow/check_view_infos.png" alt="screenshot1689411440822" style="zoom: 25%;" />
+![naicha](img\rainbow\check_view_infos.png)
 
-<img src="img/rainbow/check_view_info_detail.png" alt="screenshot1689411453689" style="zoom: 25%;" />
+![naicha](img\rainbow\check_view_info_detail.png)
 
 ## 支持手机上运行 ADB 命令，一键截图、录屏
 
 在手机开启开发者模式，并开启 tcpip 5555 端口；即可在手机上运行 adb 命令
 
-<img src="img/rainbow/other_function.png" alt="screenshot1689411490584" style="zoom:25%;" />
+![naicha](img\rainbow\other_function.png)
