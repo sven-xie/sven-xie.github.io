@@ -4,9 +4,23 @@
         <title>do some cool thing Blog</title>
         <link>https://sven-xie.github.io/blog</link>
         <description>do some cool thing Blog</description>
-        <lastBuildDate>Mon, 20 Sep 2021 11:50:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[安卓开发辅助工具RainbowBeachTools]]></title>
+            <link>https://sven-xie.github.io/blog/安卓开发辅助工具RainbowBeachTools</link>
+            <guid>安卓开发辅助工具RainbowBeachTools</guid>
+            <pubDate>Sat, 15 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[一个安卓手机开发者工具类。主要包含以下几点功能特色：]]></description>
+        </item>
+        <item>
+            <title><![CDATA[docusaurus2博客搭建]]></title>
+            <link>https://sven-xie.github.io/blog/docusaurus2博客搭建</link>
+            <guid>docusaurus2博客搭建</guid>
+            <pubDate>Thu, 23 Sep 2021 00:22:04 GMT</pubDate>
+            <description><![CDATA[- 发布Github Page的在原来的主分支main执行yarn deploy会报错；]]></description>
+        </item>
         <item>
             <title><![CDATA[docusaurus2博客搭建]]></title>
             <link>https://sven-xie.github.io/blog/docusaurus2博客搭建</link>

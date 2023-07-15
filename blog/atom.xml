@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sven-xie.github.io/blog</id>
     <title>do some cool thing Blog</title>
-    <updated>2021-09-20T11:50:01.773Z</updated>
+    <updated>2023-07-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sven-xie.github.io/blog"/>
     <subtitle>do some cool thing Blog</subtitle>
     <icon>https://sven-xie.github.io/img/logo.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[安卓开发辅助工具RainbowBeachTools]]></title>
+        <id>安卓开发辅助工具RainbowBeachTools</id>
+        <link href="https://sven-xie.github.io/blog/安卓开发辅助工具RainbowBeachTools"/>
+        <updated>2023-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一个安卓手机开发者工具类。主要包含以下几点功能特色：]]></summary>
+        <author>
+            <name>Sven</name>
+            <uri>https://github.com/sven-xie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[docusaurus2博客搭建]]></title>
+        <id>docusaurus2博客搭建</id>
+        <link href="https://sven-xie.github.io/blog/docusaurus2博客搭建"/>
+        <updated>2021-09-23T00:22:04.990Z</updated>
+        <summary type="html"><![CDATA[- 发布Github Page的在原来的主分支main执行yarn deploy会报错；]]></summary>
+        <author>
+            <name>Sven</name>
+            <uri>https://github.com/sven-xie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[docusaurus2博客搭建]]></title>
         <id>docusaurus2博客搭建</id>
